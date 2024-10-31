@@ -1,0 +1,272 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+.img-1 {
+    height: 50px;
+    margin-left: 10px;
+}
+
+.img-2 {
+    width: 50px;
+}
+
+.input {
+    border: none;
+    outline: none;
+}
+
+input {
+    width: 200px;
+    height: 25px;
+    border-radius: 15px;
+    margin-left: 50px;
+    border: 1px solid grey;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "poppins";
+}
+
+.Navbar {
+    display: flex;
+    align-items: center;
+}
+
+.work {
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+.house {
+    margin-left: 200px;
+    font-size: 20px;
+}
+
+.icon {
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+.third {
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+.two {
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.main {
+    font-size: 20px;
+}
+
+.div {
+    margin-left: 400px;
+    align-items: center;
+    display: flex;
+}
+
+.bell {
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.img-3 {
+    width: 50px;
+}
+
+.rubaish-1 {
+    display: flex;
+    align-items: center;
+}
+
+.p1 {
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.p2 {
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.rubaish-2 {
+    display: flex;
+    align-items: center;
+}
+
+.rubaish-3 {
+    display: flex;
+    align-items: center;
+}
+
+.p3 {
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.p4 {
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.p5 {
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.rubaish-4 {
+    display: flex;
+    align-items: center;
+}
+
+.rubaish-5 {
+    display: flex;
+    align-items: center;
+}
+
+.btn-1 {
+    width: 150px;
+    height: 30px;
+}
+
+.hr {
+    width: 300px;
+    position: relative;
+    top: 10px;
+}
+
+b {
+    top: 10px;
+    position: relative;
+}
+
+.rubiash-101 {
+    width: 120px;
+    background-image: url(./image/image\ copy\ 2.png);
+    overflow: hidden;
+    height: 280px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: flex-end;
+    margin-left: 50px  ;
+    margin-top: 30px;
+    font-size: 25px;
+}
+.main-container{
+    display: flex;
+}
+.rubiash-102{
+    width: 120px;
+    background-image: url(./image/image\ copy\ 2.png);
+    overflow: hidden;
+    height: 280px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: flex-end;
+    margin-left: 10px;
+    margin-top: 30px;
+    font-size: 25px;
+}
+.rubiash-103{
+    width: 120px;
+    background-image: url(./image/image\ copy\ 2.png);
+    overflow: hidden;
+    height: 280px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: flex-end;
+    margin-left: 10px;
+    margin-top: 30px;
+    font-size: 25px;
+}
+.rubiash-104{
+    width: 120px;
+    background-image: url(./image/image\ copy\ 2.png);
+    overflow: hidden;
+    height: 280px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: flex-end;
+    margin-left: 10px;
+    margin-top: 30px;
+    font-size: 25px;
+}
+.rubiash-105{
+    width: 120px;
+    background-image: url(./image/image\ copy\ 2.png);
+    overflow: hidden;
+    height: 280px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: flex-end;
+    margin-left: 10px;
+    margin-top: 30px;
+    font-size: 25px;
+}
+.img-4{
+        width: 50px;
+        display: block;
+        margin-left: 18px   ;
+}
+.stories{
+    display: flex;
+}
+.input-1{
+    width: 500px;
+    height: 25px;
+}
+.main{
+    display: flex;
+    align-items: center;
+}
+.rubaish-090{
+    display: flex;
+}
+.icon-232{
+    width: 20px;
+}
+.icon-099{
+    display: flex;
+    margin-left: 50px;
+}
+.img-09{
+    width: 50px;
+    margin-left: 15px       ;
+}
+.upwork{
+    display: flex;
+    align-items: center;
+}
+.poplop{
+    width: 500px;
+    margin-left: 150px;
+}
+.right-container{
+    margin-left: 200px;
+}
+.one{
+    display: flex;
+}
+.p12{
+        margin-left: 30px;
+}
